@@ -1,0 +1,12 @@
+D:\My Code Repositories\tau\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Royale.deps.json
+D:\My Code Repositories\tau\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Royale.dll
+D:\My Code Repositories\tau\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Royale.pdb
+D:\My Code Repositories\tau\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Framework.dll
+D:\My Code Repositories\tau\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Framework.pdb
+D:\My Code Repositories\tau\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.csprojAssemblyReference.cache
+D:\My Code Repositories\tau\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfoInputs.cache
+D:\My Code Repositories\tau\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfo.cs
+D:\My Code Repositories\tau\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.csproj.CoreCompileInputs.cache
+D:\My Code Repositories\tau\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.csproj.CopyComplete
+D:\My Code Repositories\tau\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.dll
+D:\My Code Repositories\tau\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.pdb

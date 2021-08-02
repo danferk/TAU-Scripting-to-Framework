@@ -1,0 +1,7 @@
+Starting timestamp: 7/28/2021 2:21:11 PM
+Test: User_can_copy_the_deck
+[INFO]: Browser: chrome
+[INFO]: http://statsroyale.com
+    [STEP]: Click Deckbuilder Link
+    [STEP]: Click Add Cards Manually
+[INFO]: Outcome: Failed
