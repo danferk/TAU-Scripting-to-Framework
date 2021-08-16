@@ -7,5 +7,5 @@ dotnet build
 # clean
 dotnet clean
 
-#test
+# test
 dotnet test
