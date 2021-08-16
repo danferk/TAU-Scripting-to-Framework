@@ -1,11 +1,18 @@
 # TAU-Scripting-to-Framework
 Test Automation University Scripting to framework course with C# (.NET Core)
 
-# Build
+## Build
+```bash
 dotnet build
+```
 
-# Clean
+## Clean
+```bash
 dotnet clean
+```
 
-# Test
+## Test
+```bash
 dotnet test
+```
+
